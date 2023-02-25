@@ -1,0 +1,6 @@
+SABTU, 25 FEBRUARI 2023
+  - Hari ini aku belajar tentang GITHUB BRANCH.
+  - Materi yang aku pelajari adalah seputar fitur branching di github.
+  - Pull Request
+  - Merge Branch
+  - dan Merge Conflict Resolution.
